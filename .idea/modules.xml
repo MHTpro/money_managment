@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/money_managment.iml" filepath="$PROJECT_DIR$/money_managment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/money_managment_android.iml" filepath="$PROJECT_DIR$/android/money_managment_android.iml" />
+    </modules>
+  </component>
+</project>
